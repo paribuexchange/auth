@@ -1,0 +1,1 @@
+window.spectroCoinLoansFeConfig={apiBaseUrl:'https://spectrocoin.com/crypto-loans/api',recaptchaSiteKey:'6Le32doUAAAAAOngodN4JI5pDRRjQFTmIt3zp25Z',isReferralEnabled:true,isCollateralWithdrawEnabled:true,availableWalletCurrencyTypes:["BNK","BTC","DASH","ETH","EUR","USDT","XEM"],defaultLtvByCollateralCurrency:{BTC:50,ETH:50,XEM:25,DASH:25},livechatKey:'8419881',}
